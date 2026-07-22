@@ -29,7 +29,7 @@ The Digital Recipe Book Manager is a menu-driven application designed to help us
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3
 - File Handling
