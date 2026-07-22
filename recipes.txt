@@ -1,0 +1,48 @@
+===RECIPE===
+ID:RCP001
+NAME:Egg Sandwich
+CATEGORY:BREAKFAST
+TIME:00:10
+INGREDIENTS:Egg, 2.0,  piece|Bread, 2.0,  piece|Butter, 10.0,  g
+TAGS:protein,quick
+===END===
+===RECIPE===
+ID:RCP002
+NAME:Chicken Fried Rice
+CATEGORY:LUNCH
+TIME:00:30
+INGREDIENTS:Rice, 200.0,  g|Chicken, 150.0,  g|Soy Sauce, 2.0,  tbsp|Egg, 1.0,  piece
+TAGS:asian,main
+===END===
+===RECIPE===
+ID:RCP003
+NAME:Grilled Chicken
+CATEGORY:DINNER
+TIME:00:45
+INGREDIENTS:Chicken, 300.0,  g|Salt, 1.0,  tsp|Pepper, 1.0,  tsp|Oil, 2.0,  tbsp
+TAGS:healthy,protein
+===END===
+===RECIPE===
+ID:RCP004
+NAME:Chocolate Milkshake
+CATEGORY:BEVERAGE
+TIME:00:08
+INGREDIENTS:Milk, 250.0,  ml|Chocolate Syrup, 3.0,  tbsp|Sugar, 2.0,  tsp
+TAGS:cold,sweet
+===END===
+===RECIPE===
+ID:RCP005
+NAME:Pancakes
+CATEGORY:DESSERT
+TIME:00:20
+INGREDIENTS:Flour, 200.0,  g|Milk, 200.0,  ml|Egg, 2.0,  piece|Sugar, 2.0,  tbsp
+TAGS:sweet,breakfast
+===END===
+===RECIPE===
+ID:RCP006
+NAME:French Fries
+CATEGORY:SNACK
+TIME:00:25
+INGREDIENTS:Potato, 3.0,  piece|Oil, 500.0,  ml|Salt, 1.0,  tsp
+TAGS:crispy,fastfood
+===END===

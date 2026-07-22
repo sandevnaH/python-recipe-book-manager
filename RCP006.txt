@@ -1,0 +1,9 @@
+ID: RCP006
+Name: French Fries
+Category: SNACK
+Time: 00:25
+Ingredients:
+ - Potato: 3.0  piece
+ - Oil: 500.0  ml
+ - Salt: 1.0  tsp
+Tags: crispy, fastfood
