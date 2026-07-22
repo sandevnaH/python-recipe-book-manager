@@ -4,28 +4,28 @@ A command-line Recipe Management System built with Python that allows users to c
 
 ---
 
-## 📖 Overview
+##  Overview
 
 The Digital Recipe Book Manager is a menu-driven application designed to help users maintain a personal recipe collection. It provides a simple command-line interface with input validation, automatic file handling, searching, filtering, editing, exporting, and statistical summaries.
 
 ---
 
-## ✨ Features
+##  Features
 
-- ➕ Add new recipes
-- 📋 View all recipes
-- 🔍 View recipes by ID
-- 🥕 Search recipes by ingredient
-- 🎯 Filter recipes by:
+-  Add new recipes
+-  View all recipes
+-  View recipes by ID
+-  Search recipes by ingredient
+-  Filter recipes by:
   - Category
   - Cooking time
   - Number of ingredients
-- ✏️ Edit recipe details
-- ❌ Delete recipes
-- 📊 View recipe statistics
-- 💾 Automatically save recipes
-- 📂 Automatically load saved recipes
-- 📄 Export individual recipes to text files
+-  Edit recipe details
+-  Delete recipes
+-  View recipe statistics
+-  Automatically save recipes
+-  Automatically load saved recipes
+-  Export individual recipes to text files
 
 ---
 
@@ -44,7 +44,7 @@ The Digital Recipe Book Manager is a menu-driven application designed to help us
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Digital-Recipe-Book-Manager/
@@ -57,7 +57,7 @@ Digital-Recipe-Book-Manager/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -71,7 +71,7 @@ python python-recipe-book-manager.py
 
 ---
 
-## 📋 Main Menu
+## Main Menu
 
 ```text
 1  - Add New Recipe
@@ -89,7 +89,7 @@ python python-recipe-book-manager.py
 
 ---
 
-## 💾 Data Storage
+## Data Storage
 
 Recipes are stored in a local text file named:
 
@@ -110,7 +110,7 @@ The application automatically loads saved recipes when it starts and saves chang
 
 ---
 
-## 📊 Statistics
+## Statistics
 
 The application provides:
 
@@ -121,7 +121,7 @@ The application provides:
 
 ---
 
-## ✅ Input Validation
+## Input Validation
 
 The program validates user input by checking:
 
@@ -137,7 +137,7 @@ The program validates user input by checking:
 
 ---
 
-## 📤 Export Functionality
+## Export Functionality
 
 Individual recipes can be exported as separate text files.
 
@@ -149,7 +149,7 @@ RCP006.txt
 
 ---
 
-## 📚 Python Concepts Demonstrated
+## Python Concepts Demonstrated
 
 - Functions
 - Dictionaries
@@ -165,7 +165,7 @@ RCP006.txt
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates practical knowledge of:
 
@@ -178,6 +178,6 @@ This project demonstrates practical knowledge of:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Pesandi Hettiarachchi**
